@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584776406704.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "AF0B2149",
+    "lastKnownWriteTime" : 1584925876,
+    "last_content_update" : 1584925876072,
+    "path" : "C:/iot/work/RWork/bigdata/basic_crawling_mongodb.R",
+    "project_path" : "basic_crawling_mongodb.R",
+    "properties" : {
+        "cursorPosition" : "77,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

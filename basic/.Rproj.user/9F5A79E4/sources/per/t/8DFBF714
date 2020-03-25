@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584591155617.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3506253236",
+    "id" : "8DFBF714",
+    "lastKnownWriteTime" : 1584595894,
+    "last_content_update" : 1584595894579,
+    "path" : "C:/iot/work/RWork/basic/matrix.R",
+    "project_path" : "matrix.R",
+    "properties" : {
+        "cursorPosition" : "48,57",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

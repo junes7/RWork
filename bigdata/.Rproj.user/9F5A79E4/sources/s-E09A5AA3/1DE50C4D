@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1585061320889.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3713458742",
+    "id" : "1DE50C4D",
+    "lastKnownWriteTime" : 1585063324,
+    "last_content_update" : 1585063324888,
+    "path" : "C:/iot/work/RWork/bigdata/usedcar_analytics.R",
+    "project_path" : "usedcar_analytics.R",
+    "properties" : {
+        "cursorPosition" : "112,0",
+        "scrollLine" : "101",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

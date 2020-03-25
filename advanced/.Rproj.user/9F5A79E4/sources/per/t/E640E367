@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584765719204.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4096060187",
+    "id" : "E640E367",
+    "lastKnownWriteTime" : 1584769603,
+    "last_content_update" : 1584769603637,
+    "path" : "C:/iot/work/RWork/advanced/filter_test_1.R",
+    "project_path" : "filter_test_1.R",
+    "properties" : {
+        "cursorPosition" : "32,20",
+        "scrollLine" : "18",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 13,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

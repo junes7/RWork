@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584925866386.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "41043DEF",
+    "lastKnownWriteTime" : 1584934641,
+    "last_content_update" : 1584934641287,
+    "path" : "C:/iot/work/RWork/bigdata/content_crawling.R",
+    "project_path" : "content_crawling.R",
+    "properties" : {
+        "cursorPosition" : "22,16",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

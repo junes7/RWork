@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584686890855.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3855410160",
+    "id" : "B6112124",
+    "lastKnownWriteTime" : 1584691719,
+    "last_content_update" : 1584691719802,
+    "path" : "C:/iot/work/RWork/advanced/ifelse_func.R",
+    "project_path" : "ifelse_func.R",
+    "properties" : {
+        "cursorPosition" : "8,1",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

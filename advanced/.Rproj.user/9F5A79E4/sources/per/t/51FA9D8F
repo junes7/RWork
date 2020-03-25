@@ -1,0 +1,27 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584666730242.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "49031427",
+    "id" : "51FA9D8F",
+    "lastKnownWriteTime" : 1584668561,
+    "last_content_update" : 1584668561502,
+    "path" : "C:/iot/work/RWork/advanced/endcoding_test.R",
+    "project_path" : "endcoding_test.R",
+    "properties" : {
+        "cursorPosition" : "25,3",
+        "docOutlineVisible" : "1",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
